@@ -1,2 +1,2 @@
-# project-assistant
-engeto-project-assistant
+# project-travel-assistant
+engeto-project-travel-assistant
